@@ -1,2 +1,2 @@
-# Bubble-sort
-Organizando um vetor com bubble sort
+# Algoritmos de ordenação
+Organizando um vetores com Bubble-sort e Selection-sort.  
